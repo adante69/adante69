@@ -31,7 +31,7 @@ and Informatics](https://fmph.uniba.sk/en/) at [Comenius University](https://uni
 
 
 ### My Github Statistics
-<a href="http://www.github.com/ilyastoletov"><img src="https://github-readme-stats.vercel.app/api?username=adante69&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ilyastoletov's GitHub stats" /></a> <br>
+<a href="http://www.github.com/adante69"><img src="https://github-readme-stats.vercel.app/api?username=adante69&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ilyastoletov's GitHub stats" /></a> <br>
 
 ### Mostly used languages
-<a href="https://github.com/ilyastoletov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adante69&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/adante69" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adante69&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
