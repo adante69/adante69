@@ -22,7 +22,7 @@ and Informatics](https://fmph.uniba.sk/en/) at [Comenius University](https://uni
 ### Contact Me
 <p align="left">
 <a href="https://t.me/adanteeee/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452115/telegram.svg" width="56" height="56" alt="Telegram" /></a>
-<a href="[www.linkedin.com/in/daniiar-sherniiazov](https://www.linkedin.com/in/daniiar-sherniiazov-7b0507266/)" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="56" height="56" alt="Linkedin" /></a>
+<a href="https://www.linkedin.com/in/daniiar-sherniiazov-7b0507266" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/452047/linkedin-1.svg" width="56" height="56" alt="Linkedin" /></a>
 
 ### Current tech stack
 <p>IOS: Swift, IOS SDK, CocoaPods, SwiftUI, UIKit</p>
